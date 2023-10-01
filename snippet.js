@@ -1,13 +1,13 @@
 function perMinute() {
 
 	// adds a string with various keyboarding scores
-	let wpmString = 'WPM 450 | Correct 45 | Incorrect 23';
+	let wpmString = 'CPM 450 | Correct 45 | Incorrect 23';
 	// adds a regular expression to search for the wpm
 	let regularExpression = new RegExp('[^0-9]*([0-9]+)', '');
 
 	// finds a match in the wpm string
 	if (wpmString.match(regularExpression)) {
-      
+
 		// adds the value of wpm using match() method
 		let wpmMatch = wpmString.match(regularExpression)
 			? wpmString.match(regularExpression)[1]
@@ -26,7 +26,7 @@ function perMinute() {
 		return 0;
 
 	}
-
+	
 }
 
 // todo: shows the log
