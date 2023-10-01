@@ -1,0 +1,12 @@
+{
+	"name": "working-gist-code",
+	"version": "1.0.0",
+	"description": "",
+	"main": "snippet.js",
+	"scripts": {
+		"start": "node snippet.js"
+	},
+	"author": "",
+	"license": "MIT",
+	"devDependencies": {}
+}
