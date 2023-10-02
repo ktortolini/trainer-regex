@@ -1,3 +1,9 @@
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+
+![GitHub](https://img.shields.io/github/license/ktortolini/trainer-regex?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/ktortolini/trainer-regex?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/ktortolini/trainer-regex?color=green&style=flat-square)
+
 # Coding Trainer Regex
 
 This gist has an educational excerpt of code I made while completing the [Coding Trainer](https://github.com/ktortolini/coding-trainer) educational tool. Since there were multiple JavaScript files that needed to access the same value, the solution was devised with a regular expression. While using JavaScript, in order to read the values in a string for the characters per minute (cpm/CPM), a regular expression was used to search for patterns in the given string and return the CPM.
@@ -48,6 +54,12 @@ Third, the value sought after is preceded by an arbitrary length of non-numerica
 ## _Grouping Constructs_
 
 Fifth, the value sought after needs to be distinguished apart from every acknowledged character, so the `match()` method should create a group for the sought after value. Organizing the value into a **group** of characters is possible with a [Grouping Construct](https://regexone.com/lesson/capturing_groups). This is achieved with `([0-9]+)`.
+
+## _Credits_
+
+The EDX readme file icon on the top was made by [Ileriayo](https://github.com/Ileriayo) with a link provided below: https://github.com/Ileriayo/markdown-badges#badges.
+
+While making this tutorial I made use of a great online resource by [RegexOne](https://regexone.com/), most notably the Kleene Operator page found here: https://regexone.com/lesson/kleene_operators.
 
 ## _Author_
 
