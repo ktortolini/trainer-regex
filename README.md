@@ -23,10 +23,15 @@ This code demonstrates the most efficient regular expression that I was able to 
 
 ## _Table of Contents_
 
+- [YouTube Video](#youtube-video)
 - [Character Class](#character-class)
 - [Bracket Expressions](#bracket-expressions)
 - [Kleene Operators](#kleene-operators)
 - [Grouping Constructs](#grouping-constructs)
+
+## _YouTube Video_
+
+There is a brief tutorial video available on [YouTube](https://youtu.be/Apl2mlE5oMg) that summarizes the content within this readme file. Please feel free to like and subscribe.
 
 ## _Character Class_
 
