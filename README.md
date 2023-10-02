@@ -6,7 +6,7 @@
 
 # Coding Trainer Regex
 
-This gist has an educational excerpt of code I made while completing the [Coding Trainer](https://github.com/ktortolini/coding-trainer) educational tool. Since there were multiple JavaScript files that needed to access the same value, the solution was devised with a regular expression. While using JavaScript, in order to read the values in a string for the characters per minute (cpm/CPM), a regular expression was used to search for patterns in the given string and return the CPM.
+This repository has an educational gist of code I made while completing the [Coding Trainer](https://github.com/ktortolini/coding-trainer) educational tool. Since there were multiple JavaScript files that needed to access the same value, the solution was devised with a regular expression. While using JavaScript, in order to read the values in a string for the characters per minute (cpm/CPM), a regular expression was used to search for patterns in the given string and return the CPM.
 
 ## _Summary_
 
