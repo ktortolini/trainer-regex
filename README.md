@@ -64,3 +64,7 @@ While making this tutorial I made use of a great online resource by [RegexOne](h
 ## _Author_
 
 Contact the author [ktortolini](https://github.com/ktortolini) via email ✉ <a>ktortolini@smu.edu</a>.
+
+## _Archived_
+
+This repository is now archived with a grade of 100/100.
